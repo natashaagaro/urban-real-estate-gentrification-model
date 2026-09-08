@@ -17,7 +17,7 @@ This project investigates the dynamics of urban gentrification by constructing a
 * **Interactive Tooling:** Developed an R Shiny dashboard featuring a spatial ward map, historical price trajectories, feature impact breakdowns, and a real-time socio-economic scenario simulator.
 
 ## Repository Structure
-* `Data/`: Cleaned and aggregated ward-level datasets used for analysis and modeling.
-* `Scripts/`: Core R and Python scripts handling data processing, statistical modeling, and dashboard architecture.
-* `Outputs/`: Generated model outputs, summaries, and compiled application files.
-* `Visuals and Figures/`: Previews of the R Shiny dashboard tabs, map visualizations, and OLS regression feature impact charts.
+* `Data`: Cleaned and aggregated ward-level datasets used for analysis and modeling.
+* `Scripts`: Core R and Python scripts handling data processing, statistical modeling, and dashboard architecture.
+* `Outputs`: Generated model outputs, summaries, and compiled application files.
+* `Visuals and Figures`: Previews of the R Shiny dashboard tabs, map visualizations, and OLS regression feature impact charts.
