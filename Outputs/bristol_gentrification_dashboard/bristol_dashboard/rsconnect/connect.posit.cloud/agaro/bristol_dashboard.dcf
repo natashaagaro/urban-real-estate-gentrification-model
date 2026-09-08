@@ -1,0 +1,12 @@
+name: bristol_dashboard
+title: bristol_dashboard
+username: agaro
+account: agaro
+server: connect.posit.cloud
+hostUrl: https://api.connect.posit.cloud/v1
+appId: 01a066bb-7a05-4367-62d3-2683a54195c3
+bundleId:
+url: https://connect.posit.cloud/agaro/content/01a066bb-7a05-4367-62d3-2683a54195c3
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
